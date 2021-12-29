@@ -1,4 +1,4 @@
-# (jackaraz.github.io)[https://jackaraz.github.io]
+# [jackaraz.github.io](https://jackaraz.github.io)
 
 ## How to run locally 
 - `$ npm ci` installs all dependencies
