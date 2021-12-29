@@ -3,7 +3,7 @@
     {% set title = section.title %}
     {% if section.id === 'skills' %}
       {% set listSection = skills %}
-     {% include './sectionSkills.njk'%}
+     {# include './sectionSkills.njk'#}
     {% else %}
       {% set collection = collections[section.id] %}
       {% set type = section.type %}

@@ -1,6 +1,6 @@
 ---
 organization: []
-title: "$$ E_6\\ 5 \\times 10^{-3} $$"
+title: "$$ E_6 $$ inspired $$ U(1)^\\prime $$ extended MSSM: From dark matter to LHC"
 start_date: 2018-02-06
 end_date: 2019-03-22
 permalink: false

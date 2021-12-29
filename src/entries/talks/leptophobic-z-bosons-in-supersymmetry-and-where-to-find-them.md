@@ -6,4 +6,4 @@ end_date: 2019-07-31
 permalink: false
 
 ---
-XIth International QTS Symposium
+XI$$^{\rm th}$$ International QTS Symposium

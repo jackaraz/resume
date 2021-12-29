@@ -6,6 +6,6 @@ end_date:
 permalink: false
 
 ---
-MadAnalysis 5: event analysis and recasting package
+$$ {\rm  M{\small AD}A{\small NALYSIS} }\ 5 $$ : event analysis and recasting package
 
 Rivet: the particle-physics MC analysis toolkit

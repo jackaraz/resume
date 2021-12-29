@@ -1,31 +1,36 @@
 {
   "name": "Jack Y. Araz",
-  "job": "Postdoctoral Research Assistant",
+  "job": "Postdoctoral Research Associate",
   "email": "jack.araz@durham.ac.uk",
   "links": [
     {
-      "affiliation": "INSPIRE",
-      "name": "Araz, Jack Y.",
+      "affiliation": "INSPIRE-HEP",
+      "name": "",
       "link": "https://inspirehep.net/authors/1599325"
     },
     {
+      "affiliation": "arXiv",
+      "name": "",
+      "link": "https://arxiv.org/search/hep-ph?searchtype=author&query=Araz%2C+J+Y"
+    },
+    {
       "affiliation": "ORCID",
-      "name": "0000-0001-8721-8042",
+      "name": "",
       "link": "https://orcid.org/0000-0001-8721-8042"
     },
     {
-      "affiliation": "Github",
-      "name": "jackaraz",
+      "affiliation": "GitHub",
+      "name": "",
       "link": "https://github.com/jackaraz"
     },
     {
-      "affiliation": "Gitlab",
-      "name": "jackaraz",
+      "affiliation": "GitLab",
+      "name": "",
       "link": "https://gitlab.com/jackaraz"
     },
     {
       "affiliation": "LinkedIn",
-      "name": "Jack Araz",
+      "name": "",
       "link": "https://uk.linkedin.com/in/jackaraz"
     }
   ],
@@ -37,6 +42,20 @@
     {
       "name": "English",
       "level": "Professional Proficiency"
+    }
+  ],
+  "programming": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "$$ \\texttt{C++} $$"
+    },
+    {
+      "name": "$$ \\LaTeX $$"
+    },
+    {
+      "name": "$$ \\texttt{bash script} $$"
     }
   ],
   "image": "images/jack_profile.jpg"

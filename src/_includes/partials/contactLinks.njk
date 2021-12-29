@@ -1,12 +1,12 @@
 <ul class="reset-list">
   <li>
     <a class="u-email" href="mailto:{{ general.email }}">
-      Email: {{ general.email }}
+      Email
     </a>
   </li>
   {% for link in general.links %}
   <li>
-    <a class="u-url" href="{{ link.url }}">{{ link.affiliation }}: {{ link.name }}</a>
+    <a class="u-url" href="{{ link.link }}">{{ link.affiliation }}{% if link.name %}: {{ link.name }}{% endif %}</a>
   </li>
   {% endfor %}
 </ul>

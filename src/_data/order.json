@@ -16,11 +16,6 @@
       "type": "Experience"
     },
     {
-      "id": "skills",
-      "title": "Skills",
-      "type": ""
-    },
-    {
       "id": "talks",
       "title": "Talks & Workshops",
       "type": "Experience"
@@ -29,6 +24,11 @@
       "id": "awards",
       "title": "Grants & Awards",
       "type": "Experience"
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "type": ""
     },
     {
       "id": "outreach",
