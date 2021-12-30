@@ -6,5 +6,5 @@ end_date: 2021-02-03
 permalink: false
 
 ---
-Innovative Training Network MCnetITN3 (grant agreement no. 722104)  
+[Innovative Training Network MCnetITN3](https://www.montecarlonet.org/jackaraz) (grant agreement no. 722104)  
 6 month studentship from Feb. 2020. PI: Andy Buckley

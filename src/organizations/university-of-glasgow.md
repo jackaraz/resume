@@ -1,7 +1,7 @@
 ---
 title: University of Glasgow
 city: Glasgow
-region: Glasgow
+region: ''
 regionAbbr: ''
 country: United Kingdom
 countryAbbr: UK

@@ -6,4 +6,4 @@ end_date: 2019-07-31
 permalink: false
 
 ---
-XI$$^{\rm th}$$ International QTS Symposium
+[XI$$^{\rm th}$$ International QTS Symposium](http://www.crm.umontreal.ca/2019/QTS2019/horaire_e.html)

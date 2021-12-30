@@ -21,14 +21,14 @@
           {% if organization %}
           {# include organization macro template, pass in organization #}
           <p class="p-org h-card | entry__org">
-            <span class="p-name">{{ organization.data.title }}</span>
+            <span class="p-name">{{ organization.data.title }}, </span>
             {% if organization.data.city %}
               <span class="p-locality">{{ organization.data.city }}</span>
             {% endif %}
             {# needs to adjust between span and abbr depending on data #}
             {% if organization.data.regionAbbr %}
                 <abbr class="p-region" title="{{organization.data.region}}">{{ organization.data.regionAbbr }}</abbr>,
-            {% else %}
+            {% elif organization.data.region %}
                 <span class="p-region">{{organization.data.region}}</span>,
             {% endif %}
             {% if organization.data.countryAbbr %}

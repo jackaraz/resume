@@ -7,4 +7,4 @@ end_date: 2017-05-31
 permalink: false
 
 ---
-CAP Congress 2017
+[CAP Congress 2017](https://indico.cern.ch/event/593812/timetable/?view=nicecompact)
