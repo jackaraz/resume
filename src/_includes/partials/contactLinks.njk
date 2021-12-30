@@ -1,12 +1,33 @@
 <ul class="reset-list">
   <li>
+    <a class="u-linkedin" href="https://uk.linkedin.com/in/jackaraz">
+       <img src="images/linkedin.svg" width="30" height="30" align="right">
+    </a>
+
+    <a class="u-github" href="https://github.com/jackaraz">
+       <img src="images/github.svg" width="30" height="30" align="right">
+    </a>
+    
+    <a class="u-gitlab" href="https://gitlab.com/jackaraz">
+       <img src="images/gitlab.svg" width="30" height="30" align="right">
+    </a>
+    
     <a class="u-email" href="mailto:{{ general.email }}">
-      Email
+      <img src="images/mail.svg" width="30" height="30" align="right">
     </a>
   </li>
+</ul>
+<ul class="reset-list">
   {% for link in general.links %}
   <li>
-    <a class="u-url" href="{{ link.link }}">{{ link.affiliation }}{% if link.name %}: {{ link.name }}{% endif %}</a>
+    <a class="u-url" href="{{ link.link }}">
+    {% if link.icon %}
+      {# <img src="{{ link.icon }}" width="50" height="50" align="right"> #}
+    {% else %}
+       {{ link.affiliation }}
+       {% if link.name %}: {{ link.name }}   {% endif %}
+    {% endif %}
+    </a>
   </li>
   {% endfor %}
 </ul>
