@@ -9,7 +9,7 @@ aside {
     // flex contact icons
   .reset-list--row {
       display: flex;
-      gap: var(--space);
+      gap: calc(var(--space) - 10px);
   }
   // when sidebar grid layout, stick content to right
   // move from row to column
