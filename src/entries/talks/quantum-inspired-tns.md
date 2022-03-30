@@ -1,8 +1,8 @@
 ---
 organization: []
 title: Various talks on Quantum Machine Learning
-start_date: 2022-03-30
-end_date: 2021-12-06
+start_date: 2021-12-06
+end_date: 2022-03-30
 permalink: false
 ---
 
