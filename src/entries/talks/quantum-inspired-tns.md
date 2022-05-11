@@ -2,11 +2,19 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-03-30
+end_date: 2022-05-11
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> May 11$$ ^{\rm th} $$, '22  </td>
+        <td> 
+        <a href="https://lpsc-indico.in2p3.fr/event/2873/">
+        LPSC - Universite Grenoble Alpes, Grenoble, FR.
+        </a>
+        </td>
+</tr>
 <tr>
         <td width="100px"> March 30$$ ^{\rm th} $$, '22  </td>
         <td> 
