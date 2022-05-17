@@ -2,11 +2,15 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-05-11
+end_date: 2022-05-20
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> May 20$$ ^{\rm th} $$, '22  </td>
+        <td> LPTHE - Sorbonne University, Paris, FR. </td>
+</tr>
 <tr>
         <td width="100px"> May 11$$ ^{\rm th} $$, '22  </td>
         <td> 
