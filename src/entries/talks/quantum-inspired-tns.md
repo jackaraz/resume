@@ -9,7 +9,7 @@ permalink: false
 <table>
 <tr>
         <td width="100px"> May 23$$ ^{\rm rd} $$, '22  </td>
-        <td> CEA - LIST - Universie Paris - Saclay, FR. </td>
+        <td> CEA - LIST - Universite Paris - Saclay, FR. </td>
 </tr>
 <tr>
         <td width="100px"> May 20$$ ^{\rm th} $$, '22  </td>
