@@ -6,6 +6,8 @@ end_date:
 permalink: false
 
 ---
-$$ {\rm  M{\small AD}A{\small NALYSIS} }\ 5 $$ : event analysis and recasting package
+[$$ {\rm  M{\small AD}A{\small NALYSIS} }\ 5 $$](https://github.com/MadAnalysis) : event analysis and recasting package
 
-Rivet: the particle-physics MC analysis toolkit
+[Rivet](https://gitlab.com/hepcedar/rivet): the particle-physics MC analysis toolkit
+
+[SModelS](https://github.com/SModelS): A tool for interpreting simplified-models results from the LHC
