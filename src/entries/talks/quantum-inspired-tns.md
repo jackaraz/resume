@@ -2,11 +2,19 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-05-23
+end_date: 2022-06-29
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Jun 29$$ ^{\rm th} $$, '22  </td>
+        <td>
+	<a href="https://indico.mitp.uni-mainz.de/event/254/sessions/977/#20220629">
+	DLEP at Mainz Institute for Theoretical Physics, Johannes Gutenberg University, GE.
+	</a>
+	</td>
+</tr>
 <tr>
         <td width="100px"> May 23$$ ^{\rm rd} $$, '22  </td>
         <td> CEA - LIST - Universite Paris - Saclay, FR. </td>
