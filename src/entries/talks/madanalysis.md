@@ -2,12 +2,20 @@
 organization: []
 title: Various talks and workshops on $$ {\rm  M{\small AD}A{\small NALYSIS} }\ 5 $$
 start_date: 2020-02-15
-end_date: 2021-11-25
+end_date: 2022-07-28
 permalink: false
 
 ---
 
 <table>
+<tr>
+	<td width="100px"> Jul. 28$$ ^{\rm th} $$, '22  </td>
+	<td>
+	<a href="https://osuhep.okstate.edu/images/seminar-slides/2022_jackaraz_osu.pdf">
+	 at Oklahoma State University, Oklahoma, USA
+	 </a>
+	 </td>
+</tr>
 <tr>
 	<td width="100px"> Nov. 25$$ ^{\rm th} $$, '21  </td>
 	<td>
