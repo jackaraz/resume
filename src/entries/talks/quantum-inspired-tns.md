@@ -2,11 +2,19 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-06-29
+end_date: 2022-08-15
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Aug 15$$ ^{\rm th} $$, '22  </td>
+        <td>
+	<a href="https://indico.cern.ch/event/1144064/contributions/4940326/">
+	Boost 2022 at University of Hamburg
+	</a>
+	</td>
+</tr>
 <tr>
         <td width="100px"> Jun 29$$ ^{\rm th} $$, '22  </td>
         <td>
