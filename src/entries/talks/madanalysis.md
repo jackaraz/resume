@@ -1,6 +1,6 @@
 ---
 organization: []
-title: Various talks and workshops on $$ {\rm  M{\small AD}A{\small NALYSIS} }\ 5 $$
+title: Various talks and workshops on collider phenomenology & LHC recasting
 start_date: 2020-02-15
 end_date: 2022-07-28
 permalink: false
