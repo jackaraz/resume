@@ -2,13 +2,21 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-08-15
+end_date: 2022-09-06
 permalink: false
 ---
 
 <table>
 <tr>
-        <td width="100px"> Aug 15$$ ^{\rm th} $$, '22  </td>
+        <td width="100px"> Sept. 6$$ ^{\rm th} $$, '22  </td>
+        <td>
+	<a href="https://agenda.infn.it/event/32052/contributions/178198/">
+	Machine Learning at GGI - Galileo Galilei Institute, Florence, IT.
+	</a>
+	</td>
+</tr>
+<tr>
+        <td width="100px"> Aug. 15$$ ^{\rm th} $$, '22  </td>
         <td>
 	<a href="https://indico.cern.ch/event/1144064/contributions/4940326/">
 	Boost 2022 at University of Hamburg
@@ -16,7 +24,7 @@ permalink: false
 	</td>
 </tr>
 <tr>
-        <td width="100px"> Jun 29$$ ^{\rm th} $$, '22  </td>
+        <td width="100px"> June 29$$ ^{\rm th} $$, '22  </td>
         <td>
 	<a href="https://indico.mitp.uni-mainz.de/event/254/sessions/977/#20220629">
 	DLEP at Mainz Institute for Theoretical Physics, Johannes Gutenberg University, GE.
