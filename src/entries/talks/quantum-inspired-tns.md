@@ -11,8 +11,8 @@ permalink: false
         <td width="100px"> Sept. 6$$ ^{\rm th} $$, '22  </td>
         <td>
 	<a href="https://agenda.infn.it/event/32052/contributions/178198/">
-	Machine Learning at GGI - Galileo Galilei Institute, Florence, IT.
-	</a>
+	Machine Learning at GGI - Galileo Galilei Institute, Florence, IT. 
+	</a> (<a href="https://www.youtube.com/watch?v=2WLwFrf9ykc&t=17s"> youtube link </a>)
 	</td>
 </tr>
 <tr>
