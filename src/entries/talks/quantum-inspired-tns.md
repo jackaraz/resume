@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-09-06
+end_date: 2022-10-25
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Oct. 25$$ ^{\rm th} $$, '22  </td>
+        <td>
+	<a href="https://indico.cern.ch/event/1106990/contributions/4997216/">
+	ACAT 2022, Bari, IT. 
+	</td>
+</tr>
 <tr>
         <td width="100px"> Sept. 6$$ ^{\rm th} $$, '22  </td>
         <td>
