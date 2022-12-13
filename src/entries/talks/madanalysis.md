@@ -9,6 +9,14 @@ permalink: false
 
 <table>
 <tr>
+        <td width="100px"> Dec. 12$$ ^{\rm th} $$, '22  </td>
+        <td>
+        <a href="https://indico.cern.ch/event/1197680/contributions/5144365/">
+         7th (Re)interpretation of the LHC results for new physics at CERN
+         </a>
+         </td>
+</tr>
+<tr>
 	<td width="100px"> Jul. 28$$ ^{\rm th} $$, '22  </td>
 	<td>
 	<a href="https://osuhep.okstate.edu/images/seminar-slides/2022_jackaraz_osu.pdf">
