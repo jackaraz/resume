@@ -26,6 +26,11 @@
       "type": "Experience"
     },
     {
+      "id": "commision_of_trust",
+      "title": "Commissions of Trust",
+      "type": "Experience"
+    },
+    {
       "id": "skills",
       "title": "Skills",
       "type": ""
