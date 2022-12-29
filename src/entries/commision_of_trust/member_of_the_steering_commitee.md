@@ -1,5 +1,5 @@
 ---
-organization: src/organizations/ippp-durham-university.md
+organization: 
 title: Member of the steering committee
 start_date: 2022-12-03
 end_date: 
