@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2022-10-25
+end_date: 2022-02-16
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Feb. 16$$ ^{\rm th} $$, '23  </td>
+        <td>
+        <a href="https://indico.kias.re.kr/event/169/timetable/#14-theory-driven-quantum-machi">
+        AI and Quantum Information Applications in Fundamental Physics workshop at KIAS, S. Korea
+        </td>
+</tr>
 <tr>
         <td width="100px"> Oct. 25$$ ^{\rm th} $$, '22  </td>
         <td>
