@@ -10,7 +10,7 @@ permalink: false
 <tr>
         <td width="100px"> Feb. 16$$ ^{\rm th} $$, '23  </td>
         <td>
-        <a href="https://indico.kias.re.kr/event/169/timetable/#14-theory-driven-quantum-machi">
+        <a href="https://indico.kias.re.kr/event/169/timetable/#day-2023-02-16">
         AI and Quantum Information Applications in Fundamental Physics workshop at KIAS, S. Korea
         </td>
 </tr>
