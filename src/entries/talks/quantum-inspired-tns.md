@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-02-16
+end_date: 2023-03-08
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Mar. 8$$ ^{\rm th} $$, '23  </td>
+        <td>
+        <a href="https://www.ge.infn.it/wordpress/?ai1ec_event=theory-driven-quantum-machine-learning-for-hep-dr-jack-araz-ippp-durham-u&instance_id=151">
+        Invited speaker at INFN - Sezione di Genova, Genova, IT.
+        </td>
+</tr>
 <tr>
         <td width="100px"> Feb. 16$$ ^{\rm th} $$, '23  </td>
         <td>
