@@ -8,6 +8,19 @@ permalink: false
 
 <table>
 <tr>
+        <td width="100px"> Apr. 19$$ ^{\rm th} $$, '23  </td>
+        <td>
+        Invited speaker at KPS Spring Meeting 2023, Seoul, S. Korea.
+        </td>
+</tr>
+<tr>
+        <td width="100px"> Apr. 4$$ ^{\rm th} $$, '23  </td>
+        <td>
+        <a href="https://www.eventbrite.co.uk/e/maxwell-conference-2023-tickets-591245730897">
+        Invited speaker at Maxwell Conference 2023, King's Colledge, London UK.
+        </td>
+</tr>
+<tr>
         <td width="100px"> Mar. 8$$ ^{\rm th} $$, '23  </td>
         <td>
         <a href="https://www.ge.infn.it/wordpress/?ai1ec_event=theory-driven-quantum-machine-learning-for-hep-dr-jack-araz-ippp-durham-u&instance_id=151">
