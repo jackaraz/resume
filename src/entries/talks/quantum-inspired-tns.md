@@ -10,7 +10,8 @@ permalink: false
 <tr>
         <td width="100px"> Apr. 19$$ ^{\rm th} $$, '23  </td>
         <td>
-        Invited speaker at KPS Spring Meeting 2023, Seoul, S. Korea.
+        <a href="https://www.kps.or.kr/conference/event/content/program/search_result_abstract.php?id=8049&tid=1094">
+	Invited speaker at KPS Spring Meeting 2023, Daejeon, S. Korea.
         </td>
 </tr>
 <tr>
