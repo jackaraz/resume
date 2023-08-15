@@ -31,6 +31,11 @@
       "type": "Experience"
     },
     {
+      "id": "organisation_of_scientific_meetings",
+      "title": "Organisation of Scientific Meetings",
+      "type": "Experience"
+    },
+    {
       "id": "skills",
       "title": "Skills",
       "type": ""

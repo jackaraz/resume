@@ -64,12 +64,4 @@ permalink: false
 	</a>
 	</td>
 </tr>
-<tr>
-	<td> Feb. 20$$ ^{\rm th} $$, ’21 </td>
-	<td>
-	<a href="https://indico.cern.ch/event/873524/">
-	II$$^{\rm nd} $$ MadAnalysis 5 workshop on LHC recasting @Korea
-	</a>
-	</td>
-</tr>
 </table>
