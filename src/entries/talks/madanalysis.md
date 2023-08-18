@@ -1,13 +1,21 @@
 ---
 organization: []
-title: Various talks and workshops on collider phenomenology & LHC recasting
+title: Various talks on LHC reinterpretation
 start_date: 2020-02-15
-end_date: 2022-07-28
+end_date: 2023-08-30
 permalink: false
 
 ---
 
 <table>
+<tr>
+        <td width="100px"> Aug. 30$$ ^{\rm th} $$, '23  </td>
+        <td>
+        <a href="https://conference.ippp.dur.ac.uk/event/1178/contributions/6436/">
+         8th (Re)interpretation of the LHC results for new physics at Durham University
+         </a>
+         </td>
+</tr>
 <tr>
         <td width="100px"> Dec. 12$$ ^{\rm th} $$, '22  </td>
         <td>
