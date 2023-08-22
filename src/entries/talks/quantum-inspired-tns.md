@@ -2,11 +2,17 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-03-08
+end_date: 2023-08-23
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Aug. 23$$ ^{\rm th} $$, '23  </td>
+        <td>
+	Invited speaker at DAMTP, University of Cambridge, UK
+        </td>
+</tr>
 <tr>
         <td width="100px"> Apr. 19$$ ^{\rm th} $$, '23  </td>
         <td>
