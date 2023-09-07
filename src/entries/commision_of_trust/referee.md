@@ -6,4 +6,4 @@ end_date:
 permalink: false
 
 ---
-for SciPost
+for SciPost & frontiers
