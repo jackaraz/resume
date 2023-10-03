@@ -2,13 +2,13 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-08-23
+end_date: 2023-09-25
 permalink: false
 ---
 
 <table>
 <tr>
-        <td width="100px"> Aug. 23$$ ^{\rm th} $$, '23  </td>
+        <td width="100px"> Sept. 25$$ ^{\rm th} $$, '23  </td>
         <td>
 	<a href="https://indico.bnl.gov/event/18416/contributions/81220/">
 	Invited speaker at the workshop on Probing the Frontiers of Nuclear Physics with AI at the EIC
