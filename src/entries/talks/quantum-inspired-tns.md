@@ -10,6 +10,13 @@ permalink: false
 <tr>
         <td width="100px"> Aug. 23$$ ^{\rm th} $$, '23  </td>
         <td>
+	<a href="https://indico.bnl.gov/event/18416/contributions/81220/">
+	Invited speaker at the workshop on Probing the Frontiers of Nuclear Physics with AI at the EIC
+        </td>
+</tr>
+<tr>
+        <td width="100px"> Aug. 23$$ ^{\rm th} $$, '23  </td>
+        <td>
 	Invited speaker at DAMTP, University of Cambridge, UK
         </td>
 </tr>
