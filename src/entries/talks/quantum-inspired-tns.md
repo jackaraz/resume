@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-09-25
+end_date: 2023-11-17
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Nov. 14-17, '23  </td>
+        <td>
+	<a href="https://indico.ibs.re.kr/event/571/">
+	Invited speaker at AI and Quantum Information for Particle Physics, KAIST, S. Korea
+        </td>
+</tr>
 <tr>
         <td width="100px"> Sept. 25$$ ^{\rm th} $$, '23  </td>
         <td>
