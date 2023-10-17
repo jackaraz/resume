@@ -15,6 +15,13 @@ permalink: false
         </td>
 </tr>
 <tr>
+        <td width="100px"> Oct. 23, '23  </td>
+        <td>
+	<a href="https://www.icp.uni-stuttgart.de/news/events/ICP-Kolloquium-Dr.-Jack-Araz-23.-Oktober-2023-1400-Uhr-Theory-driven-Quantum-Machine-Learning-for-HEP/">
+	Invited speaker at the University of Stuttgart, Institute for Computational Physics, GE
+        </td>
+</tr>
+<tr>
         <td width="100px"> Sept. 25$$ ^{\rm th} $$, '23  </td>
         <td>
 	<a href="https://indico.bnl.gov/event/18416/contributions/81220/">
@@ -67,7 +74,7 @@ permalink: false
         <td>
 	<a href="https://agenda.infn.it/event/32052/contributions/178198/">
 	Machine Learning at GGI - Galileo Galilei Institute, Florence, IT. 
-	</a> (<a href="https://www.youtube.com/watch?v=2WLwFrf9ykc&t=17s"> youtube link </a>)
+	</a> (<a href="https://www.youtube.com/watch?v=2WLwFrf9ykc&t=17s">youtube link</a>)
 	</td>
 </tr>
 <tr>
