@@ -1,5 +1,5 @@
 ---
-  title: Jefferson Lab. & Old Dominion University
+  title: Jefferson Lab
   region: VA
   country: United States
   countryAbbr: US
