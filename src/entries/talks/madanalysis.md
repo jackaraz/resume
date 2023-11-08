@@ -2,12 +2,20 @@
 organization: []
 title: Various talks on LHC reinterpretation
 start_date: 2020-02-15
-end_date: 2023-08-30
+end_date: 2023-10-12
 permalink: false
 
 ---
 
 <table>
+<tr>
+        <td width="100px"> Oct. 12$$ ^{\rm th} $$, '23  </td>
+        <td>
+        <a href="https://indico.cern.ch/event/1252095/contributions/5592415/">
+         PyHEP 2023 - "Python in HEP" Users Workshop
+         </a>
+         </td>
+</tr>
 <tr>
         <td width="100px"> Aug. 30$$ ^{\rm th} $$, '23  </td>
         <td>
