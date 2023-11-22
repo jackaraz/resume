@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-11-17
+end_date: 2023-11-21
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Nov. 21, '23  </td>
+        <td>
+	<a href="https://www.phys.ufl.edu/hepseminars/">
+	Invited speaker, University of Florida, FL, USA
+        </td>
+</tr>
 <tr>
         <td width="100px"> Nov. 14, '23  </td>
         <td>
