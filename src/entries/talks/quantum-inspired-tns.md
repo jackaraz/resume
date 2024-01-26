@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2024-01-30
+end_date: 2024-03-07
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> March 7, '24  </td>
+        <td>
+        <a href="https://indico.cern.ch/event/1360659/">
+        Invited speaker, PITT PACC Workshop, University of Pittsburgh, PA, USA
+        </td>
+</tr>
 <tr>
         <td width="100px"> Jan. 30, '24  </td>
         <td>
