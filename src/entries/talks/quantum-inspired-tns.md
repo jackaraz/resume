@@ -2,11 +2,18 @@
 organization: []
 title: Various talks on Quantum Machine Learning
 start_date: 2021-12-06
-end_date: 2023-11-21
+end_date: 2024-01-30
 permalink: false
 ---
 
 <table>
+<tr>
+        <td width="100px"> Jan. 30, '24  </td>
+        <td>
+        <a href="https://www.anl.gov/event/theorydriven-quantum-machine-learning-for-hep">
+        Invited speaker, Argonne National Laboratory, IL, USA
+        </td>
+</tr>
 <tr>
         <td width="100px"> Nov. 21, '23  </td>
         <td>
